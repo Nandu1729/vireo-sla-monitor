@@ -104,13 +104,3 @@ Default mode uses a local model and no paid calls: ₹0 per run and ₹0 per mon
 ## Data handling
 
 `data/` and `output/` are intentionally excluded from Git. Do not publish the source exports or derived agent-level reports in a public repository.
-
-## Before submission
-
-1. Run the tool and tests from the commands above.
-2. Record the requested walkthrough, keeping it under three minutes.
-3. Upload the video to Google Drive and set access to **Anyone with the link - Viewer**.
-4. Paste that public URL into the **AI use** answer in `submission-form.md` and into the matching field on the submission webpage.
-5. Create a public GitHub repository, then replace the GitHub placeholder in `submission-form.md` and the webpage.
-
-The video itself should not be committed to GitHub; `.mov` and `.mp4` files are ignored.
