@@ -1,0 +1,12 @@
+{
+  "timezone_offset_minutes": 330,
+  "sla_minutes": {
+    "chat": 15,
+    "voice": 120,
+    "social": 240,
+    "email": 480
+  },
+  "sla_credit_inr": 350,
+  "goal_target_rate": 0.15,
+  "planning_volume_per_week": 650
+}
